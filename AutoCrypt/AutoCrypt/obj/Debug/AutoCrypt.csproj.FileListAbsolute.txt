@@ -1,0 +1,6 @@
+C:\Users\kimsi\Desktop\AutoCrypt\AutoCrypt\bin\Debug\AutoCrypt.exe.config
+C:\Users\kimsi\Desktop\AutoCrypt\AutoCrypt\bin\Debug\AutoCrypt.exe
+C:\Users\kimsi\Desktop\AutoCrypt\AutoCrypt\bin\Debug\AutoCrypt.pdb
+C:\Users\kimsi\Desktop\AutoCrypt\AutoCrypt\obj\Debug\AutoCrypt.csprojResolveAssemblyReference.cache
+C:\Users\kimsi\Desktop\AutoCrypt\AutoCrypt\obj\Debug\AutoCrypt.exe
+C:\Users\kimsi\Desktop\AutoCrypt\AutoCrypt\obj\Debug\AutoCrypt.pdb
