@@ -4,3 +4,9 @@ C:\Users\kimsi\Desktop\AutoCrypt\AutoCrypt\bin\Release\AutoCrypt.pdb
 C:\Users\kimsi\Desktop\AutoCrypt\AutoCrypt\obj\Release\AutoCrypt.csprojResolveAssemblyReference.cache
 C:\Users\kimsi\Desktop\AutoCrypt\AutoCrypt\obj\Release\AutoCrypt.exe
 C:\Users\kimsi\Desktop\AutoCrypt\AutoCrypt\obj\Release\AutoCrypt.pdb
+C:\Users\kimsi\Documents\GitHub\autoCrypt\AutoCrypt\AutoCrypt\bin\Release\AutoCrypt.exe.config
+C:\Users\kimsi\Documents\GitHub\autoCrypt\AutoCrypt\AutoCrypt\obj\Release\AutoCrypt.exe
+C:\Users\kimsi\Documents\GitHub\autoCrypt\AutoCrypt\AutoCrypt\obj\Release\AutoCrypt.pdb
+C:\Users\kimsi\Documents\GitHub\autoCrypt\AutoCrypt\AutoCrypt\bin\Release\AutoCrypt.exe
+C:\Users\kimsi\Documents\GitHub\autoCrypt\AutoCrypt\AutoCrypt\bin\Release\AutoCrypt.pdb
+C:\Users\kimsi\Documents\GitHub\autoCrypt\AutoCrypt\AutoCrypt\obj\Release\AutoCrypt.csprojResolveAssemblyReference.cache
